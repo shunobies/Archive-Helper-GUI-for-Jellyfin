@@ -155,5 +155,3 @@ This project and related scripts are open-source. Refer to the repository for sp
 ---
 
 Thanks for checking out **Archive Helper GUI for Jellyfin!**  
-Let me know if you want additional guides like a first-time setup checklist or CSV schedule examples 📀
-::contentReference[oaicite:1]{index=1}
