@@ -1,5 +1,7 @@
 # Archive Helper GUI for Jellyfin
 
+![Archive Helper for Jellyfin – Main Interface](screenshots/archive-helper-main.png)
+
 **Archive Helper GUI for Jellyfin** is a Python desktop app that helps you rip and encode your DVDs and Blu-rays for use with a Jellyfin media server. It gives you a friendly GUI to control a rip server over SSH and run a workflow that uses MakeMKV and HandBrake to prepare your media in a format Jellyfin can organize and play.
 
 ---
